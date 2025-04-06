@@ -12,14 +12,10 @@ gen-z-portfolio
 │   ├── js
 │   │   └── scripts.js       # JavaScript for interactive features
 │   └── index.html           # Main HTML document
-├── assets
-│   ├── fonts                # Custom fonts for the design
-│   └── images               # Images for the portfolio
 └── README.md                # Project documentation
 ```
 
 ## Features
-
 - **Vibrant Design**: The website features a colorful and engaging design that captures the essence of Gen Z aesthetics.
 - **Responsive Layout**: The portfolio is fully responsive, ensuring a great user experience on both desktop and mobile devices.
 - **Interactive Elements**: JavaScript is used to add dynamic content and animations, enhancing user engagement.
